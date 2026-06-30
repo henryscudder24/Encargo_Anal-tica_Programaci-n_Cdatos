@@ -1,0 +1,25 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    image: burnout-api
+    container_name: burnout-api
+    environment:
+      API_HOST: 0.0.0.0
+      API_PORT: 8000
+    ports:
+      - "8000:8000"
+
+  dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile.dashboard
+    image: burnout-dashboard
+    container_name: burnout-dashboard
+    environment:
+      DASH_HOST: 0.0.0.0
+      DASH_PORT: 8050
+      DASH_DEBUG: "false"
+    ports:
+      - "8050:8050"

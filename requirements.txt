@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18,<6
+dash>=2.14,<3
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1

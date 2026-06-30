@@ -1,0 +1,33 @@
+{
+  "source_file": "C:\\Users\\FabianSolar\\Desktop\\DUOC1\\programacion_cdatos\\segundo encargo\\Modelos ML\\tech_mental_health_burnout_cleaned_from_dirty.csv",
+  "company_source": "http://127.0.0.1:8000/companies",
+  "rows": 150000,
+  "columns_source": 25,
+  "columns_enriched": 52,
+  "company_aliases": 96,
+  "sqlite_database": "C:\\Users\\FabianSolar\\Desktop\\DUOC1\\programacion_cdatos\\segundo encargo\\burnout_end_to_end\\data\\sql\\burnout_context.db",
+  "interventions": 307,
+  "operation_months": 12,
+  "operation_rows": 1152,
+  "burnout_risk_threshold_p75": 2.8,
+  "high_burnout_risk_rate": 0.2715,
+  "respondent_id_unique": true,
+  "company_size_mismatches": 0,
+  "missing_coordinates": 0,
+  "company_size_distribution": {
+    "Large": 37790,
+    "Startup": 37490,
+    "MNC": 37388,
+    "Mid-size": 37332
+  },
+  "work_mode_distribution": {
+    "Hybrid": 60113,
+    "Remote": 52445,
+    "Onsite": 37442
+  },
+  "burnout_level_distribution": {
+    "Low": 131526,
+    "Moderate": 18343,
+    "High": 131
+  }
+}

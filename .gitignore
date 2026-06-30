@@ -1,0 +1,32 @@
+# Python/cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+da_env/
+
+# Local logs
+*.log
+dash_stdout.log
+dash_stderr.log
+dash_test_stdout.log
+dash_test_stderr.log
+
+# Agent/local workspace metadata
+.agents/
+.codex/
+docs/contexto_continuidad_agentes.md
+speech_defensa_proyecto.md
+
+# Internal backup workspace
+github_phase1_data/
+
+# Keep only public project docs in docs/
+docs/*
+!docs/respaldo_tecnico_entrega.md

@@ -1,0 +1,308 @@
+intervention_id,company_id,intervention_type,start_month,end_month,target_role,target_work_mode,expected_impact,monthly_cost,status,coverage_percent
+INT-001-01,ORG-MIDSIZE-005,Manager enablement,2025-12,2026-04,All roles,All,0.113,4693.12,Planned,61.7
+INT-001-02,ORG-MIDSIZE-005,Mental health support,2025-12,2026-05,ML Engineer,Hybrid,0.098,5425.27,Active,61.2
+INT-001-03,ORG-MIDSIZE-005,Workload triage,2025-10,2026-04,DevOps,All,0.073,5674.53,Completed,49.3
+INT-002-01,ORG-MIDSIZE-013,Meeting load reduction,2026-02,2026-06,Product Manager,All,0.165,4435.52,Active,53.6
+INT-002-02,ORG-MIDSIZE-013,Overtime control,2026-02,2026-06,QA Engineer,All,0.056,5019.31,Completed,50.2
+INT-002-03,ORG-MIDSIZE-013,Flexible schedule reset,2025-12,2026-06,Data Scientist,All,0.101,5322.57,Active,41.0
+INT-003-01,ORG-MIDSIZE-026,Focus time program,2025-11,2026-06,Product Manager,Hybrid,0.128,4284.54,Planned,48.9
+INT-003-02,ORG-MIDSIZE-026,Recovery and sleep campaign,2025-10,2026-05,Data Scientist,All,0.108,5020.48,Active,50.2
+INT-003-03,ORG-MIDSIZE-026,Manager enablement,2026-02,2026-06,All roles,Hybrid,0.056,5732.7,Active,50.7
+INT-004-01,ORG-LARGE-013,Mental health support,2025-10,2026-04,All roles,All,0.148,6738.56,Active,60.2
+INT-004-02,ORG-LARGE-013,Workload triage,2026-01,2026-06,Backend Developer,All,0.102,7152.81,Completed,47.9
+INT-004-03,ORG-LARGE-013,Meeting load reduction,2025-12,2026-06,Product Manager,Hybrid,0.101,8484.21,Active,53.5
+INT-004-04,ORG-LARGE-013,Overtime control,2025-12,2026-03,QA Engineer,All,0.117,10455.42,Active,67.3
+INT-005-01,ORG-MIDSIZE-009,Overtime control,2025-11,2026-04,Backend Developer,Onsite,0.097,4585.28,Active,58.3
+INT-005-02,ORG-MIDSIZE-009,Flexible schedule reset,2026-01,2026-06,Frontend Developer,All,0.082,4954.8,Completed,48.5
+INT-005-03,ORG-MIDSIZE-009,Focus time program,2026-01,2026-06,Product Manager,Onsite,0.095,6270.34,Planned,63.4
+INT-006-01,ORG-STARTUP-013,Recovery and sleep campaign,2025-10,2026-04,Data Scientist,Remote,0.066,2867.14,Active,34.5
+INT-006-02,ORG-STARTUP-013,Manager enablement,2026-02,2026-05,All roles,All,0.086,3818.87,Active,52.2
+INT-006-03,ORG-STARTUP-013,Mental health support,2026-03,2026-06,Frontend Developer,Remote,0.099,4331.3,Completed,51.7
+INT-007-01,ORG-LARGE-009,Workload triage,2026-01,2026-06,QA Engineer,Hybrid,0.133,6269.33,Planned,50.1
+INT-007-02,ORG-LARGE-009,Meeting load reduction,2026-03,2026-06,Product Manager,All,0.098,6966.65,Active,44.4
+INT-007-03,ORG-LARGE-009,Overtime control,2026-03,2026-06,DevOps,Hybrid,0.084,8057.91,Planned,46.6
+INT-007-04,ORG-LARGE-009,Flexible schedule reset,2026-01,2026-05,ML Engineer,All,0.116,10264.83,Planned,64.5
+INT-008-01,ORG-STARTUP-019,Flexible schedule reset,2025-07,2025-12,ML Engineer,All,0.102,3700.19,Paused,69.2
+INT-008-02,ORG-STARTUP-019,Focus time program,2026-01,2026-06,Product Manager,Remote,0.102,3820.09,Active,52.2
+INT-008-03,ORG-STARTUP-019,Recovery and sleep campaign,2025-11,2026-04,All roles,All,0.073,5018.05,Active,73.4
+INT-009-01,ORG-LARGE-016,Manager enablement,2026-03,2026-06,All roles,All,0.085,6531.77,Planned,55.8
+INT-009-02,ORG-LARGE-016,Mental health support,2026-05,2026-06,Data Scientist,All,0.094,8208.76,Planned,67.5
+INT-009-03,ORG-LARGE-016,Workload triage,2026-02,2026-06,DevOps,All,0.103,8458.43,Active,53.1
+INT-009-04,ORG-LARGE-016,Meeting load reduction,2026-06,2026-06,Product Manager,Hybrid,0.094,9683.71,Planned,56.0
+INT-010-01,ORG-STARTUP-022,Meeting load reduction,2025-11,2026-05,Product Manager,Remote,0.116,3650.45,Active,67.1
+INT-010-02,ORG-STARTUP-022,Overtime control,2025-11,2026-06,DevOps,Onsite,0.122,3786.57,Active,51.0
+INT-010-03,ORG-STARTUP-022,Flexible schedule reset,2026-03,2026-06,All roles,All,0.168,4665.36,Paused,62.3
+INT-011-01,ORG-STARTUP-021,Focus time program,2025-12,2026-06,Product Manager,Hybrid,0.071,3561.96,Active,63.4
+INT-011-02,ORG-STARTUP-021,Recovery and sleep campaign,2026-02,2026-06,Data Scientist,Remote,0.103,3995.2,Completed,58.5
+INT-011-03,ORG-STARTUP-021,Manager enablement,2026-04,2026-06,All roles,All,0.063,5095.53,Completed,75.8
+INT-012-01,ORG-LARGE-021,Mental health support,2025-12,2026-03,Data Scientist,Onsite,0.118,6333.65,Completed,51.5
+INT-012-02,ORG-LARGE-021,Workload triage,2025-11,2026-02,Backend Developer,Hybrid,0.121,7755.11,Paused,59.1
+INT-012-03,ORG-LARGE-021,Meeting load reduction,2026-01,2026-04,Product Manager,Remote,0.053,8921.51,Active,60.7
+INT-012-04,ORG-LARGE-021,Overtime control,2026-01,2026-06,Backend Developer,Hybrid,0.094,10270.71,Active,64.6
+INT-013-01,ORG-LARGE-019,Overtime control,2025-09,2025-12,QA Engineer,Hybrid,0.088,6227.68,Active,49.2
+INT-013-02,ORG-LARGE-019,Flexible schedule reset,2025-11,2026-06,All roles,All,0.065,7909.66,Active,62.0
+INT-013-03,ORG-LARGE-019,Focus time program,2026-03,2026-06,Product Manager,All,0.117,8402.99,Planned,52.2
+INT-013-04,ORG-LARGE-019,Recovery and sleep campaign,2025-12,2026-05,Data Scientist,All,0.089,9668.33,Active,55.8
+INT-014-01,ORG-STARTUP-004,Recovery and sleep campaign,2025-09,2025-12,Data Scientist,Hybrid,0.136,3133.72,Active,45.6
+INT-014-02,ORG-STARTUP-004,Manager enablement,2026-02,2026-06,All roles,All,0.11,3829.71,Active,52.6
+INT-014-03,ORG-STARTUP-004,Mental health support,2025-10,2026-05,All roles,All,0.116,4429.92,Completed,54.8
+INT-015-01,ORG-LARGE-012,Workload triage,2025-11,2026-03,Backend Developer,Remote,0.079,6175.49,Active,48.1
+INT-015-02,ORG-LARGE-012,Meeting load reduction,2026-03,2026-06,Product Manager,Hybrid,0.073,7212.46,Active,49.0
+INT-015-03,ORG-LARGE-012,Overtime control,2025-11,2026-03,Backend Developer,All,0.099,8031.49,Active,46.1
+INT-015-04,ORG-LARGE-012,Flexible schedule reset,2025-10,2026-03,ML Engineer,Hybrid,0.042,8949.59,Active,45.3
+INT-016-01,ORG-MIDSIZE-019,Flexible schedule reset,2026-01,2026-04,Frontend Developer,Remote,0.106,4506.97,Completed,55.8
+INT-016-02,ORG-MIDSIZE-019,Focus time program,2026-02,2026-05,Product Manager,Remote,0.113,5371.87,Paused,59.7
+INT-016-03,ORG-MIDSIZE-019,Recovery and sleep campaign,2025-12,2026-06,All roles,Remote,0.103,6846.0,Paused,77.1
+INT-017-01,ORG-STARTUP-023,Manager enablement,2025-11,2026-06,All roles,All,0.074,3657.08,Planned,67.4
+INT-017-02,ORG-STARTUP-023,Mental health support,2025-10,2026-06,All roles,Hybrid,0.1,4603.05,Active,80.3
+INT-017-03,ORG-STARTUP-023,Workload triage,2026-05,2026-06,Software Engineer,Onsite,0.065,4413.67,Planned,54.3
+INT-018-01,ORG-STARTUP-020,Meeting load reduction,2025-07,2026-03,Product Manager,All,0.087,3584.67,Active,64.4
+INT-018-02,ORG-STARTUP-020,Overtime control,2026-02,2026-06,Backend Developer,Hybrid,0.15,4119.68,Completed,63.0
+INT-018-03,ORG-STARTUP-020,Flexible schedule reset,2025-12,2026-03,Frontend Developer,All,0.149,5170.87,Completed,78.2
+INT-019-01,ORG-MIDSIZE-024,Focus time program,2025-10,2026-02,Product Manager,Hybrid,0.155,5010.19,Active,71.6
+INT-019-02,ORG-MIDSIZE-024,Recovery and sleep campaign,2025-09,2026-01,Data Scientist,Remote,0.106,6248.14,Active,83.3
+INT-019-03,ORG-MIDSIZE-024,Manager enablement,2025-12,2026-03,All roles,All,0.114,6591.3,Active,71.0
+INT-020-01,ORG-STARTUP-006,Mental health support,2025-11,2026-05,All roles,Hybrid,0.09,3671.36,Active,68.0
+INT-020-02,ORG-STARTUP-006,Workload triage,2025-11,2026-03,Software Engineer,All,0.138,4069.45,Active,61.2
+INT-020-03,ORG-STARTUP-006,Meeting load reduction,2025-10,2026-05,Product Manager,Onsite,0.085,4364.26,Planned,52.8
+INT-021-01,ORG-STARTUP-002,Overtime control,2026-01,2026-06,Backend Developer,All,0.117,3568.52,Active,63.7
+INT-021-02,ORG-STARTUP-002,Flexible schedule reset,2026-03,2026-06,Data Scientist,Onsite,0.079,4660.88,Planned,82.4
+INT-021-03,ORG-STARTUP-002,Focus time program,2025-12,2026-06,Product Manager,All,0.116,4593.64,Active,60.0
+INT-022-01,ORG-MNC-011,Recovery and sleep campaign,2025-10,2026-06,ML Engineer,Hybrid,0.108,8026.36,Planned,50.6
+INT-022-02,ORG-MNC-011,Manager enablement,2026-03,2026-06,All roles,Hybrid,0.103,11036.87,Planned,75.7
+INT-022-03,ORG-MNC-011,Mental health support,2025-11,2026-06,Frontend Developer,All,0.1,10759.15,Active,52.7
+INT-022-04,ORG-MNC-011,Workload triage,2026-04,2026-06,DevOps,All,0.107,12894.68,Completed,62.2
+INT-023-01,ORG-LARGE-003,Workload triage,2025-11,2026-05,Software Engineer,All,0.132,5760.56,Active,39.2
+INT-023-02,ORG-LARGE-003,Meeting load reduction,2025-12,2026-06,Product Manager,Remote,0.13,7717.99,Completed,58.4
+INT-023-03,ORG-LARGE-003,Overtime control,2025-12,2026-06,QA Engineer,Hybrid,0.109,8415.53,Completed,52.4
+INT-023-04,ORG-LARGE-003,Flexible schedule reset,2025-10,2026-06,ML Engineer,All,0.078,10666.4,Planned,70.3
+INT-024-01,ORG-STARTUP-010,Flexible schedule reset,2026-01,2026-06,ML Engineer,Onsite,0.11,3488.83,Paused,60.4
+INT-024-02,ORG-STARTUP-010,Focus time program,2026-01,2026-06,Product Manager,All,0.102,3926.9,Active,56.1
+INT-024-03,ORG-STARTUP-010,Recovery and sleep campaign,2026-03,2026-06,ML Engineer,Hybrid,0.11,4394.2,Active,53.7
+INT-025-01,ORG-MIDSIZE-022,Manager enablement,2025-12,2026-03,All roles,All,0.105,4804.95,Completed,65.2
+INT-025-02,ORG-MIDSIZE-022,Mental health support,2025-10,2026-01,ML Engineer,Remote,0.104,4615.42,Active,39.3
+INT-025-03,ORG-MIDSIZE-022,Workload triage,2026-03,2026-06,QA Engineer,Hybrid,0.111,5192.46,Planned,37.9
+INT-026-01,ORG-STARTUP-017,Meeting load reduction,2026-02,2026-06,Product Manager,Hybrid,0.055,3640.06,Active,66.7
+INT-026-02,ORG-STARTUP-017,Overtime control,2025-11,2026-03,Backend Developer,Hybrid,0.119,3656.51,Active,46.3
+INT-026-03,ORG-STARTUP-017,Flexible schedule reset,2026-03,2026-06,Data Scientist,Onsite,0.088,4755.83,Paused,65.1
+INT-027-01,ORG-LARGE-011,Focus time program,2026-01,2026-06,Product Manager,All,0.101,6363.3,Completed,52.1
+INT-027-02,ORG-LARGE-011,Recovery and sleep campaign,2025-12,2026-03,All roles,All,0.075,7067.79,Active,46.3
+INT-027-03,ORG-LARGE-011,Manager enablement,2026-02,2026-06,All roles,Remote,0.071,8690.07,Paused,56.9
+INT-027-04,ORG-LARGE-011,Mental health support,2026-02,2026-06,Data Scientist,Remote,0.058,9838.96,Completed,58.3
+INT-028-01,ORG-MIDSIZE-008,Mental health support,2025-12,2026-06,Data Scientist,Remote,0.094,4461.46,Planned,54.4
+INT-028-02,ORG-MIDSIZE-008,Workload triage,2025-11,2026-03,DevOps,All,0.119,5390.73,Completed,60.2
+INT-028-03,ORG-MIDSIZE-008,Meeting load reduction,2026-03,2026-06,Product Manager,Onsite,0.101,6284.11,Active,63.8
+INT-029-01,ORG-LARGE-014,Overtime control,2025-11,2026-06,Software Engineer,Hybrid,0.104,5595.61,Completed,35.6
+INT-029-02,ORG-LARGE-014,Flexible schedule reset,2026-05,2026-06,Data Scientist,Onsite,0.083,7047.17,Active,45.9
+INT-029-03,ORG-LARGE-014,Focus time program,2026-03,2026-06,Product Manager,Onsite,0.082,7930.87,Active,44.5
+INT-029-04,ORG-LARGE-014,Recovery and sleep campaign,2026-02,2026-05,ML Engineer,Onsite,0.075,9967.39,Active,60.1
+INT-030-01,ORG-MIDSIZE-001,Recovery and sleep campaign,2025-11,2026-04,ML Engineer,Hybrid,0.1,4534.65,Active,56.7
+INT-030-02,ORG-MIDSIZE-001,Manager enablement,2025-11,2026-05,All roles,Hybrid,0.089,4957.22,Paused,48.5
+INT-030-03,ORG-MIDSIZE-001,Mental health support,2026-02,2026-06,Frontend Developer,Hybrid,0.097,5931.52,Active,55.4
+INT-031-01,ORG-LARGE-010,Workload triage,2025-11,2026-04,Backend Developer,All,0.129,5953.04,Active,43.3
+INT-031-02,ORG-LARGE-010,Meeting load reduction,2026-03,2026-06,Product Manager,Hybrid,0.089,6996.14,Active,45.0
+INT-031-03,ORG-LARGE-010,Overtime control,2025-12,2026-03,Software Engineer,All,0.069,8360.82,Planned,51.5
+INT-031-04,ORG-LARGE-010,Flexible schedule reset,2025-12,2026-05,Frontend Developer,All,0.095,9960.46,Planned,60.0
+INT-032-01,ORG-MNC-012,Flexible schedule reset,2025-12,2026-05,Data Scientist,Hybrid,0.1,8179.34,Active,53.2
+INT-032-02,ORG-MNC-012,Focus time program,2026-04,2026-06,Product Manager,All,0.101,8936.24,Active,45.1
+INT-032-03,ORG-MNC-012,Recovery and sleep campaign,2026-03,2026-06,Data Scientist,All,0.096,10606.67,Planned,50.7
+INT-032-04,ORG-MNC-012,Manager enablement,2026-01,2026-06,All roles,Onsite,0.069,11264.55,Active,43.6
+INT-033-01,ORG-MNC-003,Manager enablement,2025-12,2026-06,All roles,Hybrid,0.11,8370.18,Planned,56.4
+INT-033-02,ORG-MNC-003,Mental health support,2026-01,2026-06,All roles,All,0.058,10478.54,Active,67.6
+INT-033-03,ORG-MNC-003,Workload triage,2026-03,2026-06,DevOps,Hybrid,0.083,10991.01,Active,55.7
+INT-033-04,ORG-MNC-003,Meeting load reduction,2026-03,2026-06,Product Manager,Remote,0.082,12657.84,Completed,59.5
+INT-034-01,ORG-STARTUP-003,Meeting load reduction,2025-10,2026-03,Product Manager,All,0.085,3659.39,Planned,67.5
+INT-034-02,ORG-STARTUP-003,Overtime control,2026-03,2026-06,Backend Developer,All,0.115,3961.76,Active,57.3
+INT-034-03,ORG-STARTUP-003,Flexible schedule reset,2026-01,2026-06,All roles,All,0.113,5010.95,Active,73.2
+INT-035-01,ORG-LARGE-024,Focus time program,2026-01,2026-06,Product Manager,All,0.116,5449.78,Planned,32.5
+INT-035-02,ORG-LARGE-024,Recovery and sleep campaign,2026-05,2026-06,ML Engineer,Hybrid,0.085,7669.59,Active,57.5
+INT-035-03,ORG-LARGE-024,Manager enablement,2026-02,2026-06,All roles,All,0.11,9320.84,Active,67.2
+INT-035-04,ORG-LARGE-024,Mental health support,2026-01,2026-06,ML Engineer,All,0.103,10040.62,Active,61.2
+INT-036-01,ORG-LARGE-008,Mental health support,2026-02,2026-06,All roles,All,0.108,6355.92,Active,52.0
+INT-036-02,ORG-LARGE-008,Workload triage,2026-03,2026-06,DevOps,Onsite,0.091,7750.58,Completed,59.0
+INT-036-03,ORG-LARGE-008,Meeting load reduction,2026-03,2026-06,Product Manager,Hybrid,0.108,8818.71,Active,59.0
+INT-036-04,ORG-LARGE-008,Overtime control,2026-02,2026-05,DevOps,Hybrid,0.058,9739.25,Planned,56.8
+INT-037-01,ORG-MNC-007,Overtime control,2025-12,2026-06,DevOps,Remote,0.109,8499.68,Planned,58.6
+INT-037-02,ORG-MNC-007,Flexible schedule reset,2025-12,2026-04,All roles,Hybrid,0.073,9892.12,Planned,59.0
+INT-037-03,ORG-MNC-007,Focus time program,2026-04,2026-06,Product Manager,Hybrid,0.105,11663.05,Completed,64.3
+INT-037-04,ORG-MNC-007,Recovery and sleep campaign,2026-03,2026-06,Data Scientist,Hybrid,0.1,12291.38,Active,55.3
+INT-038-01,ORG-MIDSIZE-003,Recovery and sleep campaign,2026-03,2026-06,Frontend Developer,All,0.099,4688.09,Planned,61.5
+INT-038-02,ORG-MIDSIZE-003,Manager enablement,2026-04,2026-06,All roles,Remote,0.078,4356.61,Active,32.4
+INT-038-03,ORG-MIDSIZE-003,Mental health support,2025-12,2026-05,Data Scientist,Onsite,0.068,6214.26,Active,62.1
+INT-039-01,ORG-LARGE-005,Workload triage,2025-09,2026-03,Software Engineer,Remote,0.096,6521.99,Active,55.6
+INT-039-02,ORG-LARGE-005,Meeting load reduction,2025-09,2026-02,Product Manager,Hybrid,0.129,7590.43,Active,56.0
+INT-039-03,ORG-LARGE-005,Overtime control,2026-02,2026-06,QA Engineer,Hybrid,0.097,7870.16,Active,43.5
+INT-039-04,ORG-LARGE-005,Flexible schedule reset,2026-04,2026-06,Frontend Developer,Hybrid,0.054,10403.15,Active,66.5
+INT-040-01,ORG-MNC-004,Flexible schedule reset,2025-10,2026-06,All roles,All,0.057,8447.27,Planned,57.7
+INT-040-02,ORG-MNC-004,Focus time program,2026-02,2026-06,Product Manager,Hybrid,0.102,10124.55,Active,62.4
+INT-040-03,ORG-MNC-004,Recovery and sleep campaign,2026-02,2026-06,Data Scientist,All,0.068,11028.56,Active,56.1
+INT-040-04,ORG-MNC-004,Manager enablement,2026-04,2026-06,All roles,Hybrid,0.086,11064.86,Planned,41.3
+INT-041-01,ORG-MNC-017,Manager enablement,2025-10,2026-03,All roles,Hybrid,0.099,9782.27,Active,80.2
+INT-041-02,ORG-MNC-017,Mental health support,2025-09,2026-04,Frontend Developer,All,0.103,11214.05,Planned,78.3
+INT-041-03,ORG-MNC-017,Workload triage,2026-02,2026-06,QA Engineer,Onsite,0.116,12077.38,Active,69.6
+INT-041-04,ORG-MNC-017,Meeting load reduction,2025-12,2026-06,Product Manager,Onsite,0.082,11023.11,Completed,40.8
+INT-042-01,ORG-LARGE-018,Meeting load reduction,2026-01,2026-06,Product Manager,All,0.077,6601.13,Completed,57.3
+INT-042-02,ORG-LARGE-018,Overtime control,2025-10,2026-01,Software Engineer,All,0.124,6809.81,Active,41.5
+INT-042-03,ORG-LARGE-018,Flexible schedule reset,2026-03,2026-06,ML Engineer,All,0.076,9335.25,Active,67.4
+INT-042-04,ORG-LARGE-018,Focus time program,2026-05,2026-06,Product Manager,Remote,0.111,10438.87,Active,67.0
+INT-043-01,ORG-LARGE-006,Focus time program,2025-08,2026-04,Product Manager,All,0.102,6632.73,Active,57.9
+INT-043-02,ORG-LARGE-006,Recovery and sleep campaign,2026-01,2026-04,All roles,Remote,0.096,8606.73,Planned,74.9
+INT-043-03,ORG-LARGE-006,Manager enablement,2026-02,2026-06,All roles,Hybrid,0.076,8505.33,Active,53.9
+INT-043-04,ORG-LARGE-006,Mental health support,2026-03,2026-06,ML Engineer,Remote,0.108,9279.01,Active,50.1
+INT-044-01,ORG-MNC-010,Mental health support,2025-10,2026-01,Data Scientist,All,0.074,8427.86,Paused,57.4
+INT-044-02,ORG-MNC-010,Workload triage,2026-02,2026-06,Backend Developer,All,0.128,9818.76,Active,58.0
+INT-044-03,ORG-MNC-010,Meeting load reduction,2026-02,2026-06,Product Manager,All,0.067,11872.31,Paused,66.9
+INT-044-04,ORG-MNC-010,Overtime control,2026-02,2026-06,Software Engineer,Onsite,0.12,12194.04,Active,54.2
+INT-045-01,ORG-MNC-020,Overtime control,2025-12,2026-03,Software Engineer,Onsite,0.111,9233.89,Paused,71.0
+INT-045-02,ORG-MNC-020,Flexible schedule reset,2025-10,2026-03,All roles,Remote,0.101,8852.12,Completed,43.9
+INT-045-03,ORG-MNC-020,Focus time program,2026-02,2026-06,Product Manager,Remote,0.097,11855.59,Active,66.7
+INT-045-04,ORG-MNC-020,Recovery and sleep campaign,2026-05,2026-06,Frontend Developer,Hybrid,0.112,12539.76,Active,58.1
+INT-046-01,ORG-MIDSIZE-014,Recovery and sleep campaign,2025-11,2026-02,Data Scientist,Onsite,0.114,4133.28,Active,44.2
+INT-046-02,ORG-MIDSIZE-014,Manager enablement,2025-10,2026-03,All roles,All,0.109,5077.77,Completed,51.8
+INT-046-03,ORG-MIDSIZE-014,Mental health support,2025-10,2026-02,Frontend Developer,All,0.073,5654.29,Active,48.9
+INT-047-01,ORG-MIDSIZE-028,Workload triage,2025-10,2026-04,Software Engineer,All,0.17,5188.05,Planned,77.1
+INT-047-02,ORG-MIDSIZE-028,Meeting load reduction,2025-12,2026-03,Product Manager,All,0.055,5130.78,Planned,53.2
+INT-047-03,ORG-MIDSIZE-028,Overtime control,2026-03,2026-06,QA Engineer,Remote,0.076,5637.83,Planned,48.5
+INT-048-01,ORG-LARGE-023,Flexible schedule reset,2025-10,2026-03,Frontend Developer,All,0.082,7588.34,Completed,78.5
+INT-048-02,ORG-LARGE-023,Focus time program,2025-10,2026-02,Product Manager,Remote,0.107,6861.47,Active,42.5
+INT-048-03,ORG-LARGE-023,Recovery and sleep campaign,2026-04,2026-06,Frontend Developer,All,0.068,8299.05,Active,50.5
+INT-048-04,ORG-LARGE-023,Manager enablement,2026-02,2026-05,All roles,Hybrid,0.101,10584.73,Completed,69.1
+INT-049-01,ORG-MNC-005,Manager enablement,2026-01,2026-06,All roles,All,0.084,8404.11,Paused,57.0
+INT-049-02,ORG-MNC-005,Mental health support,2026-02,2026-06,All roles,All,0.077,9433.64,Planned,52.4
+INT-049-03,ORG-MNC-005,Workload triage,2025-11,2026-05,QA Engineer,All,0.101,9935.27,Active,42.1
+INT-049-04,ORG-MNC-005,Meeting load reduction,2025-12,2026-06,Product Manager,Onsite,0.073,12961.1,Active,62.9
+INT-050-01,ORG-MIDSIZE-007,Meeting load reduction,2025-11,2026-02,Product Manager,Onsite,0.081,4164.06,Completed,45.1
+INT-050-02,ORG-MIDSIZE-007,Overtime control,2026-01,2026-04,Software Engineer,Hybrid,0.14,4554.22,Paused,37.7
+INT-050-03,ORG-MIDSIZE-007,Flexible schedule reset,2026-01,2026-06,ML Engineer,All,0.073,6174.46,Completed,61.2
+INT-051-01,ORG-MIDSIZE-016,Focus time program,2026-01,2026-06,Product Manager,All,0.082,4861.53,Completed,66.9
+INT-051-02,ORG-MIDSIZE-016,Recovery and sleep campaign,2025-12,2026-06,Frontend Developer,Hybrid,0.115,4230.98,Planned,29.0
+INT-051-03,ORG-MIDSIZE-016,Manager enablement,2026-03,2026-06,All roles,All,0.138,6267.18,Planned,63.4
+INT-052-01,ORG-STARTUP-014,Mental health support,2026-01,2026-04,Frontend Developer,Onsite,0.04,3025.86,Planned,41.1
+INT-052-02,ORG-STARTUP-014,Workload triage,2026-03,2026-06,QA Engineer,All,0.103,4178.27,Planned,65.1
+INT-052-03,ORG-STARTUP-014,Meeting load reduction,2025-12,2026-06,Product Manager,Remote,0.063,4529.59,Active,58.0
+INT-053-01,ORG-MNC-016,Overtime control,2025-12,2026-06,DevOps,All,0.105,8894.64,Paused,65.2
+INT-053-02,ORG-MNC-016,Flexible schedule reset,2026-01,2026-06,ML Engineer,Hybrid,0.097,8722.88,Paused,42.0
+INT-053-03,ORG-MNC-016,Focus time program,2026-03,2026-06,Product Manager,All,0.121,11982.17,Active,68.3
+INT-053-04,ORG-MNC-016,Recovery and sleep campaign,2025-12,2026-04,All roles,Hybrid,0.106,12510.66,Completed,57.8
+INT-054-01,ORG-MNC-001,Recovery and sleep campaign,2025-12,2026-06,Frontend Developer,Onsite,0.116,6920.66,Paused,31.9
+INT-054-02,ORG-MNC-001,Manager enablement,2025-09,2026-01,All roles,All,0.126,8893.06,Active,44.5
+INT-054-03,ORG-MNC-001,Mental health support,2026-02,2026-06,All roles,Remote,0.106,11171.97,Completed,58.0
+INT-054-04,ORG-MNC-001,Workload triage,2026-02,2026-06,DevOps,All,0.117,13524.27,Active,69.4
+INT-055-01,ORG-STARTUP-005,Workload triage,2025-11,2026-02,DevOps,All,0.117,3486.12,Active,60.3
+INT-055-02,ORG-STARTUP-005,Meeting load reduction,2025-11,2026-05,Product Manager,All,0.124,3831.8,Planned,52.6
+INT-055-03,ORG-STARTUP-005,Overtime control,2026-06,2026-06,Software Engineer,All,0.083,4175.01,Active,46.8
+INT-056-01,ORG-LARGE-001,Flexible schedule reset,2025-11,2026-06,All roles,Hybrid,0.125,7088.42,Completed,67.8
+INT-056-02,ORG-LARGE-001,Focus time program,2026-01,2026-06,Product Manager,All,0.123,8136.13,Active,66.2
+INT-056-03,ORG-LARGE-001,Recovery and sleep campaign,2026-05,2026-06,ML Engineer,All,0.08,9374.14,Planned,68.1
+INT-056-04,ORG-LARGE-001,Manager enablement,2026-03,2026-06,All roles,All,0.094,9642.84,Paused,55.4
+INT-057-01,ORG-LARGE-020,Manager enablement,2025-12,2026-04,All roles,Onsite,0.079,6104.74,Completed,46.6
+INT-057-02,ORG-LARGE-020,Mental health support,2026-01,2026-06,Frontend Developer,Onsite,0.078,6771.67,Completed,40.8
+INT-057-03,ORG-LARGE-020,Workload triage,2026-02,2026-06,QA Engineer,Hybrid,0.121,8805.12,Completed,58.8
+INT-057-04,ORG-LARGE-020,Meeting load reduction,2026-06,2026-06,Product Manager,All,0.162,9715.13,Planned,56.5
+INT-058-01,ORG-MNC-002,Meeting load reduction,2025-10,2026-01,Product Manager,All,0.105,9192.97,Planned,70.3
+INT-058-02,ORG-MNC-002,Overtime control,2025-11,2026-04,Backend Developer,All,0.076,9493.75,Active,53.2
+INT-058-03,ORG-MNC-002,Flexible schedule reset,2025-10,2026-01,All roles,Hybrid,0.105,10315.74,Planned,47.0
+INT-058-04,ORG-MNC-002,Focus time program,2026-05,2026-06,Product Manager,Remote,0.126,12491.27,Active,57.6
+INT-059-01,ORG-MNC-006,Focus time program,2025-08,2025-12,Product Manager,Remote,0.117,8355.43,Active,56.1
+INT-059-02,ORG-MNC-006,Recovery and sleep campaign,2026-02,2026-06,Data Scientist,Hybrid,0.097,9763.12,Active,57.2
+INT-059-03,ORG-MNC-006,Manager enablement,2026-03,2026-06,All roles,All,0.075,11153.68,Planned,57.7
+INT-059-04,ORG-MNC-006,Mental health support,2025-12,2026-06,Frontend Developer,Hybrid,0.067,12363.82,Active,56.1
+INT-060-01,ORG-STARTUP-009,Mental health support,2026-02,2026-06,ML Engineer,All,0.106,3271.49,Planned,51.3
+INT-060-02,ORG-STARTUP-009,Workload triage,2025-12,2026-03,Software Engineer,All,0.079,3261.48,Active,32.2
+INT-060-03,ORG-STARTUP-009,Meeting load reduction,2026-01,2026-05,Product Manager,All,0.136,4274.29,Paused,49.9
+INT-061-01,ORG-LARGE-007,Overtime control,2026-02,2026-06,QA Engineer,Onsite,0.144,6862.41,Active,62.9
+INT-061-02,ORG-LARGE-007,Flexible schedule reset,2025-12,2026-06,All roles,Hybrid,0.095,6498.59,Paused,35.7
+INT-061-03,ORG-LARGE-007,Focus time program,2025-09,2025-12,Product Manager,Remote,0.049,9174.0,Completed,64.8
+INT-061-04,ORG-LARGE-007,Recovery and sleep campaign,2026-03,2026-06,Data Scientist,All,0.064,9485.73,Active,53.1
+INT-062-01,ORG-MNC-009,Recovery and sleep campaign,2025-08,2025-12,Frontend Developer,All,0.129,7723.37,Completed,45.5
+INT-062-02,ORG-MNC-009,Manager enablement,2026-05,2026-06,All roles,Hybrid,0.066,8743.21,Completed,42.3
+INT-062-03,ORG-MNC-009,Mental health support,2026-01,2026-06,ML Engineer,All,0.116,10125.61,Completed,44.6
+INT-062-04,ORG-MNC-009,Workload triage,2025-10,2026-06,Software Engineer,Hybrid,0.149,11801.04,Planned,49.7
+INT-063-01,ORG-MIDSIZE-027,Workload triage,2026-02,2026-06,Backend Developer,Hybrid,0.102,4610.11,Active,59.1
+INT-063-02,ORG-MIDSIZE-027,Meeting load reduction,2025-12,2026-06,Product Manager,All,0.115,5745.7,Planned,69.8
+INT-063-03,ORG-MIDSIZE-027,Overtime control,2026-04,2026-06,DevOps,Hybrid,0.109,6223.38,Active,62.3
+INT-064-01,ORG-MIDSIZE-018,Flexible schedule reset,2025-10,2026-01,ML Engineer,All,0.064,4760.35,Active,63.8
+INT-064-02,ORG-MIDSIZE-018,Focus time program,2025-12,2026-03,Product Manager,All,0.076,4970.83,Active,48.9
+INT-064-03,ORG-MIDSIZE-018,Recovery and sleep campaign,2026-01,2026-06,All roles,Hybrid,0.061,6757.43,Completed,75.0
+INT-065-01,ORG-STARTUP-015,Manager enablement,2025-11,2026-06,All roles,All,0.12,3145.84,Paused,46.1
+INT-065-02,ORG-STARTUP-015,Mental health support,2026-03,2026-06,Frontend Developer,Hybrid,0.093,3782.32,Completed,50.9
+INT-066-01,ORG-MIDSIZE-011,Meeting load reduction,2025-10,2026-05,Product Manager,All,0.062,4739.06,Completed,63.1
+INT-066-02,ORG-MIDSIZE-011,Overtime control,2025-12,2026-03,Software Engineer,Onsite,0.13,4939.51,Active,48.1
+INT-066-03,ORG-MIDSIZE-011,Flexible schedule reset,2026-02,2026-06,Frontend Developer,Hybrid,0.062,5296.15,Active,40.4
+INT-067-01,ORG-LARGE-015,Focus time program,2025-11,2026-06,Product Manager,All,0.097,6132.21,Completed,47.2
+INT-067-02,ORG-LARGE-015,Recovery and sleep campaign,2025-09,2025-12,All roles,Hybrid,0.101,6659.42,Active,38.7
+INT-067-03,ORG-LARGE-015,Manager enablement,2025-12,2026-03,All roles,Hybrid,0.123,8262.16,Planned,49.9
+INT-067-04,ORG-LARGE-015,Mental health support,2026-04,2026-06,Frontend Developer,All,0.095,9431.24,Paused,52.3
+INT-068-01,ORG-MIDSIZE-020,Mental health support,2025-10,2026-04,Frontend Developer,All,0.083,4635.03,Active,59.8
+INT-068-02,ORG-MIDSIZE-020,Workload triage,2025-12,2026-04,Backend Developer,Hybrid,0.151,5144.86,Active,53.6
+INT-068-03,ORG-MIDSIZE-020,Meeting load reduction,2025-11,2026-05,Product Manager,All,0.096,5554.19,Active,46.5
+INT-069-01,ORG-STARTUP-018,Overtime control,2026-06,2026-06,DevOps,All,0.11,3137.98,Active,45.7
+INT-069-02,ORG-STARTUP-018,Flexible schedule reset,2026-02,2026-06,All roles,Remote,0.162,4014.33,Planned,59.2
+INT-069-03,ORG-STARTUP-018,Focus time program,2026-01,2026-05,Product Manager,Hybrid,0.122,4960.45,Completed,71.6
+INT-070-01,ORG-MIDSIZE-002,Recovery and sleep campaign,2026-04,2026-06,All roles,All,0.107,4567.67,Active,57.7
+INT-070-02,ORG-MIDSIZE-002,Manager enablement,2025-11,2026-04,All roles,Hybrid,0.085,4877.58,Planned,46.4
+INT-071-01,ORG-MNC-013,Workload triage,2026-04,2026-06,Software Engineer,All,0.095,8134.55,Active,52.4
+INT-071-02,ORG-MNC-013,Meeting load reduction,2026-03,2026-06,Product Manager,All,0.122,9952.99,Planned,59.9
+INT-071-03,ORG-MNC-013,Overtime control,2026-02,2026-06,Backend Developer,All,0.102,10831.77,Planned,53.6
+INT-071-04,ORG-MNC-013,Flexible schedule reset,2026-02,2026-05,Data Scientist,All,0.077,11960.95,Paused,51.5
+INT-072-01,ORG-MIDSIZE-017,Flexible schedule reset,2025-11,2026-06,All roles,All,0.132,4415.0,Active,53.0
+INT-072-02,ORG-MIDSIZE-017,Focus time program,2025-10,2026-03,Product Manager,All,0.107,5722.42,Active,69.2
+INT-073-01,ORG-MIDSIZE-025,Manager enablement,2025-12,2026-05,All roles,Hybrid,0.033,3847.56,Active,35.2
+INT-073-02,ORG-MIDSIZE-025,Mental health support,2025-12,2026-06,ML Engineer,Hybrid,0.158,5369.52,Active,59.7
+INT-074-01,ORG-STARTUP-016,Meeting load reduction,2026-01,2026-04,Product Manager,All,0.107,2672.17,Active,26.3
+INT-074-02,ORG-STARTUP-016,Overtime control,2026-06,2026-06,Software Engineer,All,0.097,3471.63,Active,39.7
+INT-075-01,ORG-MIDSIZE-015,Focus time program,2025-11,2026-03,Product Manager,All,0.097,3817.24,Active,34.3
+INT-075-02,ORG-MIDSIZE-015,Recovery and sleep campaign,2026-01,2026-06,ML Engineer,Onsite,0.114,5023.22,Active,50.3
+INT-075-03,ORG-MIDSIZE-015,Manager enablement,2026-01,2026-06,All roles,Remote,0.093,6466.98,Completed,68.1
+INT-076-01,ORG-MNC-015,Mental health support,2026-03,2026-06,Data Scientist,Onsite,0.086,7654.15,Planned,44.3
+INT-076-02,ORG-MNC-015,Workload triage,2026-02,2026-06,Backend Developer,All,0.081,8614.62,Paused,40.4
+INT-076-03,ORG-MNC-015,Meeting load reduction,2026-05,2026-06,Product Manager,Hybrid,0.096,8562.47,Active,24.6
+INT-077-01,ORG-STARTUP-008,Overtime control,2025-08,2026-04,QA Engineer,All,0.085,3506.49,Paused,61.1
+INT-077-02,ORG-STARTUP-008,Flexible schedule reset,2026-03,2026-06,ML Engineer,Remote,0.114,4070.23,Active,61.2
+INT-078-01,ORG-STARTUP-007,Recovery and sleep campaign,2026-02,2026-06,Data Scientist,All,0.123,3252.82,Completed,50.5
+INT-078-02,ORG-STARTUP-007,Manager enablement,2025-09,2026-03,All roles,Remote,0.12,3628.46,Completed,45.3
+INT-079-01,ORG-MIDSIZE-010,Workload triage,2025-11,2026-05,DevOps,All,0.069,4418.51,Active,53.1
+INT-079-02,ORG-MIDSIZE-010,Meeting load reduction,2025-12,2026-03,Product Manager,Hybrid,0.107,4755.61,Planned,43.1
+INT-079-03,ORG-MIDSIZE-010,Overtime control,2025-12,2026-06,Software Engineer,Hybrid,0.106,5502.97,Active,45.3
+INT-080-01,ORG-MNC-019,Flexible schedule reset,2025-12,2026-03,Data Scientist,All,0.11,10051.71,Completed,84.8
+INT-080-02,ORG-MNC-019,Focus time program,2025-12,2026-05,Product Manager,Onsite,0.099,9437.21,Planned,52.4
+INT-080-03,ORG-MNC-019,Recovery and sleep campaign,2026-03,2026-06,Frontend Developer,All,0.081,11899.38,Active,67.3
+INT-081-01,ORG-LARGE-017,Manager enablement,2025-12,2026-06,All roles,Hybrid,0.095,5673.8,Planned,37.3
+INT-081-02,ORG-LARGE-017,Mental health support,2025-12,2026-03,Data Scientist,Onsite,0.139,7075.39,Planned,46.5
+INT-081-03,ORG-LARGE-017,Workload triage,2026-03,2026-06,Software Engineer,All,0.127,8956.97,Planned,61.2
+INT-082-01,ORG-LARGE-002,Meeting load reduction,2025-11,2026-06,Product Manager,All,0.083,7006.4,Active,66.0
+INT-082-02,ORG-LARGE-002,Overtime control,2026-04,2026-06,Software Engineer,Hybrid,0.071,7192.33,Active,48.6
+INT-082-03,ORG-LARGE-002,Flexible schedule reset,2026-03,2026-06,All roles,Hybrid,0.087,8389.49,Active,52.0
+INT-083-01,ORG-MIDSIZE-012,Focus time program,2025-11,2026-03,Product Manager,All,0.085,4118.05,Active,43.7
+INT-083-02,ORG-MIDSIZE-012,Recovery and sleep campaign,2025-12,2026-05,All roles,Remote,0.094,4904.75,Active,47.1
+INT-084-01,ORG-LARGE-004,Mental health support,2026-01,2026-06,Data Scientist,All,0.074,7358.65,Active,73.6
+INT-084-02,ORG-LARGE-004,Workload triage,2026-01,2026-06,DevOps,All,0.089,7939.94,Planned,62.5
+INT-084-03,ORG-LARGE-004,Meeting load reduction,2025-08,2026-03,Product Manager,Onsite,0.107,8221.67,Planned,49.2
+INT-085-01,ORG-MNC-018,Overtime control,2025-11,2026-04,Backend Developer,Hybrid,0.083,8807.71,Active,63.8
+INT-085-02,ORG-MNC-018,Flexible schedule reset,2026-04,2026-06,Data Scientist,Remote,0.108,9509.06,Planned,53.5
+INT-085-03,ORG-MNC-018,Focus time program,2026-01,2026-04,Product Manager,All,0.097,12107.13,Active,69.9
+INT-086-01,ORG-MNC-008,Recovery and sleep campaign,2026-02,2026-06,Data Scientist,Remote,0.109,8605.62,Planned,60.4
+INT-086-02,ORG-MNC-008,Manager enablement,2026-06,2026-06,All roles,All,0.108,9002.14,Active,46.1
+INT-086-03,ORG-MNC-008,Mental health support,2026-02,2026-06,ML Engineer,All,0.094,10744.91,Planned,52.5
+INT-087-01,ORG-STARTUP-012,Workload triage,2025-10,2026-03,DevOps,All,0.112,3203.16,Active,48.5
+INT-087-02,ORG-STARTUP-012,Meeting load reduction,2026-01,2026-05,Product Manager,Hybrid,0.068,3805.53,Active,51.7
+INT-088-01,ORG-STARTUP-011,Flexible schedule reset,2025-12,2026-03,ML Engineer,Hybrid,0.105,3990.24,Planned,81.3
+INT-088-02,ORG-STARTUP-011,Focus time program,2026-01,2026-04,Product Manager,All,0.132,4308.54,Active,69.8
+INT-089-01,ORG-MIDSIZE-004,Manager enablement,2025-10,2026-04,All roles,All,0.11,4140.69,Planned,44.4
+INT-089-02,ORG-MIDSIZE-004,Mental health support,2025-11,2026-02,Frontend Developer,Remote,0.069,4375.45,Active,32.9
+INT-090-01,ORG-LARGE-022,Meeting load reduction,2026-01,2026-06,Product Manager,All,0.129,6062.23,Active,45.7
+INT-090-02,ORG-LARGE-022,Overtime control,2026-03,2026-06,Software Engineer,Hybrid,0.122,7710.67,Active,58.3
+INT-090-03,ORG-LARGE-022,Flexible schedule reset,2026-06,2026-06,ML Engineer,All,0.142,8347.65,Active,51.3
+INT-091-01,ORG-STARTUP-024,Focus time program,2025-12,2026-06,Product Manager,Hybrid,0.106,3380.06,Completed,55.8
+INT-091-02,ORG-STARTUP-024,Recovery and sleep campaign,2026-02,2026-06,Frontend Developer,All,0.098,3786.37,Planned,51.0
+INT-092-01,ORG-MIDSIZE-023,Mental health support,2025-12,2026-06,All roles,All,0.071,4238.4,Active,47.5
+INT-092-02,ORG-MIDSIZE-023,Workload triage,2026-02,2026-05,DevOps,All,0.074,5410.74,Paused,60.8
+INT-093-01,ORG-MNC-014,Overtime control,2025-09,2026-02,DevOps,Onsite,0.129,8973.61,Active,66.6
+INT-093-02,ORG-MNC-014,Flexible schedule reset,2025-08,2026-03,Frontend Developer,Onsite,0.097,8409.25,Completed,37.5
+INT-093-03,ORG-MNC-014,Focus time program,2025-11,2026-06,Product Manager,All,0.09,9524.9,Active,36.9
+INT-094-01,ORG-MIDSIZE-006,Recovery and sleep campaign,2025-12,2026-05,All roles,All,0.142,4383.1,Completed,52.0
+INT-094-02,ORG-MIDSIZE-006,Manager enablement,2025-09,2026-05,All roles,All,0.099,5339.1,Completed,58.8
+INT-095-01,ORG-STARTUP-001,Workload triage,2025-12,2026-03,DevOps,All,0.107,3613.31,Planned,65.6
+INT-095-02,ORG-STARTUP-001,Meeting load reduction,2026-03,2026-06,Product Manager,Hybrid,0.12,3531.52,Active,41.9
+INT-096-01,ORG-MIDSIZE-021,Flexible schedule reset,2025-11,2026-04,Frontend Developer,All,0.108,5061.64,Planned,73.2
+INT-096-02,ORG-MIDSIZE-021,Focus time program,2026-05,2026-06,Product Manager,Remote,0.079,4828.97,Planned,45.1
